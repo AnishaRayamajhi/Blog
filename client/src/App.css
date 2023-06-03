@@ -1,0 +1,27 @@
+.nav{
+  background-color: aquamarine;
+}
+
+#logo h1{
+  list-style: none;
+}
+
+#list li{
+  display: inline-block;
+}
+
+#list li a{
+  text-decoration: none;
+  color:black;
+  padding: 10px 15px;
+  display: block;
+}
+
+#list  li a:hover{
+  background-color: black;
+  color: aquamarine;
+}
+
+.active{
+  background-color: antiquewhite;
+}
